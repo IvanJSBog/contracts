@@ -1,5 +1,5 @@
 {
-  "name": "@fullstackсinema/contracts",
+  "name": "@fullstackcinema/contracts",
   "description": "Protobuf definitions and generated ts types",
   "version": "1.0.0",
   "scripts": {

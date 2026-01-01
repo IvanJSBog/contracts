@@ -1,7 +1,7 @@
 {
   "name": "@fullstackcinema/contracts",
   "description": "Protobuf definitions and generated ts types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "generate": "protoc -I ./proto ./proto/*.proto --ts_proto_out=./gen --ts_proto_opt=nestJs=true,package=omit"
   },
